@@ -1,0 +1,5 @@
+version: '3'
+services:
+  rtems-arm-rasberrypi:
+    build: .
+    image: sergiusthebest/rtems-arm-rasberrypi
